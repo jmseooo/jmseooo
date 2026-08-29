@@ -8,7 +8,7 @@
 
 <br>
 
-#### Project
+### Project
 
 **[Stickie](https://github.com/jmseooo/stickie)**  
 좋아하는 사진을 오려 나만의 위젯으로 만드는 iOS 앱  
@@ -24,7 +24,7 @@
 
 <br>
 
-#### Activity
+### Activity
 
 서울여대 UIUX 소학회 NUX 소학회장  
 SOPT 디자인 파트 수료  
@@ -33,7 +33,7 @@ Apple Developer Academy@POSTECH 수료
 
 <br>
 
-#### Awards
+### Awards
 
 Ringle 제5회 서비스기획 공모전 대상  
 블레이버스 MVP 공모전 우수상  
