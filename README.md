@@ -1,4 +1,4 @@
-# Hello World
+# 👩‍💻🐚☀️
 
 ### 진민서 · Product Designer
 앱 개발 스튜디오 **세모하우스** Cofounder
