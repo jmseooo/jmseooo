@@ -28,18 +28,18 @@
 
 #### Activity
 
-서울여대 UIUX 소학회 NUX 소학회장  
-SOPT 디자인 파트 수료  
-RISE 사업단 선정 프로젝트 UIUX 디자이너 참여  
-Apple Developer Academy@POSTECH 수료
+`2025` 서울여대 UIUX 소학회 NUX 소학회장  
+`2025` SOPT 디자인 파트 수료  
+`2025` RISE 사업단 선정 프로젝트 UIUX 디자이너 참여  
+`2024`Apple Developer Academy@POSTECH 수료
 
 <br>
 
 #### Awards
 
-Ringle 제5회 서비스기획 공모전 대상  
-블레이버스 MVP 공모전 우수상  
-SOPT 데모데이 최우수상
+`2026` Ringle 제5회 서비스기획 공모전 대상  
+`2025` 블레이버스 MVP 서비스 공모전 우수상  
+`2025` SOPT 데모데이 최우수상
 
 <br>
 
